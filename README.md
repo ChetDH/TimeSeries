@@ -1,2 +1,2 @@
 # TimeSeries
- Time series analysis for a class project.
+ Time series analysis of liquor sales data for a grad project.
